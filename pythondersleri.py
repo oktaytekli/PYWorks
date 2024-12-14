@@ -27,7 +27,7 @@ _age=20
 x=1 #int
 y=2.3 #float
 name="Oktay" #string
-isStudent  = true #bool
+isStudent  = True #bool
 
 x, y, name, isStudent = (1, 2.3 ,"Oktay", True) #Tek satırda dört adet değişkene atama yapma işlemi
 
