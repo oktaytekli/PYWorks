@@ -64,7 +64,7 @@
 
 ad       =    input('Lütfen adınızı girin: ')
 kilo     =    float(input('Lütfen kilonuzu girin: '))
-boy      =    float(input('Lütfen boyunuzu girin: '))
+boy      =    float(input('Lütfen boyunuzu girin: ')) 
 
 index = (kilo) / (boy**2)
 zayif = (index >=0) and (index<=18.4)
